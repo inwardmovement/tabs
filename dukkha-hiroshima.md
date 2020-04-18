@@ -1,5 +1,5 @@
 ```
-Eb Bb Gb Db Ab Eb Ab
+Ab Eb Ab Db Gb Bb Eb
 
 • = "ta"
 2 = "taga"
