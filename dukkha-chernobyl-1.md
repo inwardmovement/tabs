@@ -1,6 +1,8 @@
 ```
 Ab Eb Ab Db Gb Bb Eb
 
+https://youtu.be/AdqwxVNV7ao
+
 ~ = let ring
 
 1 2 3
@@ -16,7 +18,6 @@ Ab Eb Ab Db Gb Bb Eb
 
 1 2 1
 2
-
 
 --------------------
 --------------------
